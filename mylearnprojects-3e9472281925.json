@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "mylearnprojects",
+  "private_key_id": "3e947228192521c1e4a6513964a8428e1100bdc2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEpgclaEV7ypS6\nhbgs0GwMxtw8TPV+oK8Q2bOTpmn9oqDxHlSEg3k/vdldF2mIUOIMF0eME7SHfaiF\ni50G2V/kl+R71KiaQZouYb3JqYy9+JDZoJfDkSretPhbjKq+DjJhf7S0b7LRgUTE\nEgDw9Tnk3NYBm6ntLm9hkzum/8UKQ1+Irxkm2fvGL/al3qqFksxzwDmBTBgbPcrD\nWZ45dtD0tVTAU18bicSirUWgk5XqYOMKkPEBGmB9hZu73iBd9TSQGfOQJXJ9ibYt\ng7F4k/usYZu5qA5pqxp7ZIwuMMb6541azzArO5Ew2XVcaF3gF/T51XUjXn8xnqer\nkjskUNuPAgMBAAECggEABYnErydQUaV80JxeEzEGSGPVvwMB2CbPvcWlZ49q8iaa\n3SXxoAIqr4KTjqocO3RGF9+t90JBnGrYpkFhn9hBkzWhGZWwu+UEe34emYFwNWEJ\nn0w4PSmnXFQan7I5+slGkcIsq8PVJ7S5/Y87CvSbd7Hg4XTpvh36xNo5kCePr1n1\n3V9lILH5HFNcoFsqzQPaY1iil8DoI8W6FYnoQJfV/rx4IW0529M1ren27JfM3B0v\no8xdsuYFKiGIV2NmhiCM3FztD97Rr3a5sAl4Vi8csBs+6ddaxFFCuAz8orEP2pFO\n1Hs7L9FLrU1OU7Ck8KsMdhucpg3v5e6AZrLGMtJk1QKBgQD86qYtFnUEZokH2OoU\n3vP8J5JW3VpvCP9pmc8iU4XbfOoFqEfRdpya8Ok0gWhgH4xJtlGCH443qKjrr8rL\nDH1pmuHt8ciSH0qhjTolEbM96RRSlI80lSCkl/NFvdV8D3y1B8VHj8zO2RtmXHF0\nqbo48rCrkLGgxbwG/9mZ581VwwKBgQDHC8RAVwjatFGf57YwZtomQCMFBqEv60X8\ngwu2dSbDNOdb3mvFpQAKGFfHJQhOQdRQZwNgR+DXaDRLgAYHuaZQkQXyj8YrmhEJ\n5VourJwhQBmlCTVzKvYkifOyiAh+8TFP8P8bti01vfsqiFNA93P6XbXm9FYhx2Ld\npMaVZFJqRQKBgQDsdRVYIh7VNmf3Bj4TtT63COgwflMGbIse18ZoeV40jtzc3TAI\nDbTsxz/A7xv+goBOij46QfZc4zrK31fh7pNyIHQKWnsC4m6MC9XIwnup7jgp3Orm\nZmZWfBndolXt3yzgs5smBLOe0Cxlzxfj0qtggsXaITVw8m2QvbNbyPSYsQKBgCdi\nxKqWjkH4fE5P41UghPocptFPxoVc4LRemeq4s7rctQsQr/Kj+6YDuxrE0SfrDr/6\nIkji8DKvg+mMo6TTr30xtSOSH3xxN/3lTDsAHMTXkjt93v2y+pGwWnBxSn0T7NYM\nse4h1kBUH2cDIrYwQNrBwES7BHAarA1/lWvqNgShAoGAfTWuRO4vrNAo2nIXrkek\nFffg0QlOPKuoFtBzpDwTYFR7/9TCbQZho+8S9/UDD1enNVWipx391Y0+z3fPbwEb\nYHDYCacH94AFWQ0yB0boi60lD/Mg0R+i+SL7PBV9KCsGLw/NhCzEZfNdJpI3sd6d\nRt3DA8hIJlcQsTotLWzuQpI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kalyanilearn@mylearnprojects.iam.gserviceaccount.com",
+  "client_id": "109372237086606611679",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kalyanilearn%40mylearnprojects.iam.gserviceaccount.com"
+}
+
+
