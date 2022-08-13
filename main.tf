@@ -1,4 +1,4 @@
-// in main.tf
+// in main.tf from mac
 terraform {
   required_providers {
     google = {
